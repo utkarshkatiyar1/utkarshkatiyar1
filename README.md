@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Katiyar</h1>
 <h3 align="center">A Passionate Android Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR">
+(img align="right" alt="coding" width="400" src="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshkatiyar1&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshkatiyar1" /> </p>
 
