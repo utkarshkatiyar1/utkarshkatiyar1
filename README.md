@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshkatiyar1&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshkatiyar1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshkatiyar1" alt="utkarshkatiyar1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/utkrsh_katiyar" target="blank"><img src="https://img.shields.io/twitter/follow/utkrsh_katiyar?logo=twitter&style=for-the-badge" alt="utkrsh_katiyar" /></a> </p>
-
 - 🌱 I’m currently learning **Java Programming Language**
 
 - 💬 Ask me about **Java , HTML & C**
