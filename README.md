@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Utkarsh Katiyar</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh Katiyar</h1>
 <h3 align="center">A Passionate Android Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR">
 
